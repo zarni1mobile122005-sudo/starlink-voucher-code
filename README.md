@@ -26,7 +26,7 @@ pkg update && pkg upgrade
 pkg install python
 
 # Clone the repository
-git clone [https://github.com/YOUR_USERNAME/starlink-voucher-code.git](https://github.com/YOUR_USERNAME/starlink-voucher-code.git)
+git clone [https://github.com/YOUR_USERNAME/starlink-voucher-code.git](https://github.com/zarni1mobile122005-sudo/starlink-voucher-code/tree/main)
 
 # Enter the folder
 cd starlink-voucher-code
