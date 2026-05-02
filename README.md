@@ -34,20 +34,4 @@ cd starlink-voucher-code
 # Run the script
 python starlink_v2.py
 [*] Searching for valid codes... / 
-=============================================
-✅ NEW VOUCHER FOUND: 8X2K9L4M1P0Q
-=============================================
 
---- [ HISTORY OF RECENT CODES ] ---
- > A1B2C3D4E5F6
- > G7H8I9J0K1L2
- > 8X2K9L4M1P0Q
-### ဘယ်လို အသုံးပြုရမလဲ?
-
-၁။ GitHub က သင့် Repository ထဲမှာ **Add file** ကို နှိပ်ပါ။
-၂။ **Create new file** ကို ရွေးပါ။
-၃။ File name နေရာမှာ `README.md` လို့ ရေးပါ။
-၄။ အပေါ်က code တွေကို Copy ကူးပြီး Paste ချပါ။
-၅။ အောက်က **Commit changes** ကို နှိပ်လိုက်ရင် သင့် GitHub Profile မှာ ဒီဇိုင်းလှလှလေးနဲ့ ပေါ်လာပါလိမ့်မယ်။
-
-*(မှတ်ချက်- `YOUR_USERNAME` နေရာမှာ သင့်ရဲ့ GitHub နာမည်လေး ပြောင်းထည့်ပေးဖို့ မမေ့နဲ့ဦးနော်။)*
